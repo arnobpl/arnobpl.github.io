@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "fa-linkedin",
+    "link": "https://www.linkedin.com/in/arnobpl",
+    "tooltip": "Visit my Linkedin profile"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/arnobpl",
+    "tooltip": "Visit my GitHub profile"
+  },
+  {
+    "icon": "fa-stack-overflow",
+    "link": "https://stackoverflow.com/users/2548628/arnobpl",
+    "tooltip": "Visit my Stack Overflow profile"
+  },
+  {
+    "icon": "fa-youtube",
+    "link": "https://www.youtube.com/user/arnobpl",
+    "tooltip": "Visit my YouTube channel"
+  }
+]
