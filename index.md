@@ -9,9 +9,9 @@ css: ["index.css"]
 
 ##### Welcome to my site!
 
-I have completed my Bachelor of Science (B.Sc) in Computer Science and Engineering (CSE) from [Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd){:target="_blank"}. My primary research interest includes Security, Computer Networks, Distributed Systems, Computer Architecture, Wireless Networks, Cloud Computing, IoT. I have also worked as Software Engineer in [Reve Systems](https://www.revesoft.com){:target="_blank"}.
+I have completed my Bachelor of Science (B.Sc) in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd){:target="_blank"} from [Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd){:target="_blank"}. My primary research interest includes Security, Computer Networks, Distributed Systems, Computer Architecture, Wireless Networks, Cloud Computing, IoT. I have also worked as Software Engineer in [Reve Systems](https://www.revesoft.com){:target="_blank"}.
 
-Feel free to browse various pages of this site.
+Feel free to browse various pages of this site. :blush:
 
 </div>
   <div class="column right">

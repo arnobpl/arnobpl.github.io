@@ -31,18 +31,20 @@ defaults:
     scope:
       path: "_pages"
     values:
+      layout: page
       permalink: /:basename
 
+# My GitHub configurations
 repository: arnobpl/arnobpl\.github\.io
-
-# MatJek specific configurations
 github_profile: "https://github.com/arnobpl"
+
+# My specific configurations
 user: "Arnob Paul"
 user_email: "arnobpl@gmail.com"
 cv_google_fileId: "1zn98ZuQdSLGJnwJkK0MvoKVDxa15OCTO"
 google_tracking_id: "UA-40979540-3"
 google_site_verification: "UA-40979540-3"
-# disqus_shortname: "matjek"
+# disqus_shortname: "arnobpl"
 
 # Build settings
 markdown: kramdown
@@ -51,6 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
