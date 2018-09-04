@@ -46,6 +46,12 @@ google_tracking_id: "UA-40979540-3"
 google_site_verification: "UA-40979540-3"
 # disqus_shortname: "arnobpl"
 
+# Jekyll Scholar settings
+scholar:
+  style: apa
+  source: ./_bib
+  bibliography: publication.bib
+
 # Build settings
 markdown: kramdown
 plugins:
@@ -54,6 +60,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
+  - jekyll-scholar
 exclude:
   - Gemfile
   - Gemfile.lock
