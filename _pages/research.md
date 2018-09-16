@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ##### Research Interest
-- Security, Computer Networks, Distributed Systems, Computer Architecture, Wireless Networks, Cloud Computing, IoT
+- Security and Privacy, Computer Networks, Distributed Systems, Computer Architecture, Wireless Networks, Cloud Computing, IoT
 
 &nbsp;
 
