@@ -17,7 +17,7 @@ Feel free to browse various pages of this site. :blush:
   <div class="column right">
     <div class="col s12 tag-div">
       <div class="user-pic center-align">
-        <a href="{{site.github_profile}}" target="_blank"><img class="circle hoverable z-depth-1" src="{{site.baseurl}}/assets/res/user.png"></a>
+        <a href="{{site.github_profile}}" target="_blank"><img class="circle hoverable z-depth-1" src="{{site.baseurl}}/assets/res/user.jpg"></a>
       </div>
     </div>
   </div>
