@@ -10,5 +10,5 @@ Some of my project-related questions and their answers are available on my [Stac
 
 Some of my project videos are available on my [YouTube channel](https://www.youtube.com/user/arnobpl){:target="_blank"}.
 
-##### GitHub Projects
+##### [**GitHub Projects**]({{site.github_profile}}){:target="_blank"}
 {% include github_projects.html %}
