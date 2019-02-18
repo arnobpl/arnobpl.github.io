@@ -9,7 +9,7 @@ css: ["index.css"]
 
 ##### Welcome to my site!
 
-I have completed my Bachelor of Science (B.Sc) in [Computer Science and Engineering (CSE)](https://cse.buet.ac.bd){:target="_blank"} from [Bangladesh University of Engineering and Technology (BUET)](http://buet.ac.bd){:target="_blank"}. I have also worked as Software Engineer in [Reve Systems](https://www.revesoft.com){:target="_blank"}. My primary research interest is in computer security. To elaborate, I am particularly interested in computer network security, software security such as operating system security.
+I have completed my Bachelor of Science (B.Sc) in <a href="https://cse.buet.ac.bd" target="_blank" onclick="trackOutboundLink('https://cse.buet.ac.bd')">Computer Science and Engineering (CSE)</a> from <a href="http://buet.ac.bd" target="_blank" onclick="trackOutboundLink('http://buet.ac.bd')">Bangladesh University of Engineering and Technology (BUET)</a>. I have also worked as Software Engineer in <a href="https://www.revesoft.com" target="_blank" onclick="trackOutboundLink('https://www.revesoft.com')">Reve Systems</a>. My primary research interest is in computer security. To elaborate, I am particularly interested in computer network security, software security such as operating system security.
 
 Feel free to browse various pages of this site. :blush:
 

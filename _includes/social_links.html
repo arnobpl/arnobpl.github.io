@@ -1,3 +1,3 @@
 {% for link in site.data.social %}
-  <a class="fa {{link.icon}}" target="_blank" href="{{link.link}}" title="{{link.tooltip}}"></a>
+  <a class="fa {{link.icon}}" target="_blank" href="{{link.link}}" title="{{link.tooltip}}" onclick="trackOutboundLink('{{link.link}}')"></a>
 {% endfor %}
