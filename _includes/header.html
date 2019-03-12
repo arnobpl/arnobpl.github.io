@@ -55,12 +55,12 @@
             <div class="background"></div>
             <a href="{{site.github_profile}}" target="_blank" onclick="trackOutboundLink('{{site.github_profile}}')"><img class="circle hoverable z-depth-2" src="{{site.baseurl}}/assets/res/user.jpg"></a>
             <span class="white-text name">{{site.user}}</span>
+            <a class="white-text email" href="mailto:{{site.user_email}}">{{site.user_email}}</a>
             <!--<span><div class="divider"></div></span>-->
             <div class="email">
-              <!--<a class="white-text email" href="mailto:{{site.user_email}}">{{site.user_email}}</a>-->
-              {% for email in site.data.email %}
+              <!--{% for email in site.data.email %}
                 <a class="white-text" href="mailto:{{email.address}}" title="{{email.description}}" onclick="trackOutboundLink('mailto:{{email.address}}')">{{email.address}}</a>
-              {% endfor %}
+              {% endfor %}-->
             </div>
             {% include social_links.html %}
           </div>
