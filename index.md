@@ -11,7 +11,7 @@ css: ["index.css"]
 
 I am currently a Research Assistant at <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank" onclick="trackOutboundLink('https://engineering.buffalo.edu/computer-science-engineering.html')">University at Buffalo</a>. My research interest includes Security and Privacy, Computer Network, Operating System, Computer Architecture, Embedded System, Cloud Computing. I have completed my B.Sc. in <a href="https://cse.buet.ac.bd" target="_blank" onclick="trackOutboundLink('https://cse.buet.ac.bd')">Computer Science and Engineering</a> from <a href="http://buet.ac.bd" target="_blank" onclick="trackOutboundLink('http://buet.ac.bd')">Bangladesh University of Engineering and Technology</a>. I have also worked as Software Engineer in <a href="https://www.revesoft.com" target="_blank" onclick="trackOutboundLink('https://www.revesoft.com')">Reve Systems</a>.
 
-Feel free to browse various pages of this site. :blush:
+Feel free to browse my site. :blush:
 
 </div>
   <div class="column right">
