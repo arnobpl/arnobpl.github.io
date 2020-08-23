@@ -4,7 +4,7 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank" onclick="trackOutboundLink('https://engineering.buffalo.edu/computer-science-engineering.html')">University at Buffalo</a>
+##### <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank" onclick="trackOutboundLink('https://engineering.buffalo.edu/computer-science-engineering.html')"><b>University at Buffalo</b></a>
   - **<a href="http://nsr.cse.buffalo.edu" target="_blank" onclick="trackOutboundLink('http://nsr.cse.buffalo.edu')">Research Assistant</a>** \| May 2020 - Present
   - Projects
     - **Security-related project on ARM TrustZone**
@@ -18,7 +18,7 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://www.revesoft.com" target="_blank" onclick="trackOutboundLink('https://www.revesoft.com')">REVE Systems</a>
+##### <a href="https://www.revesoft.com" target="_blank" onclick="trackOutboundLink('https://www.revesoft.com')"><b>REVE Systems</b></a>
   - **Software Engineer** \| October 2017 - August 2018
   - Projects
     - **Enterprise-grade communication software**
