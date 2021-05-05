@@ -4,6 +4,17 @@ title: "Work Experience"
 
 &nbsp;
 
+##### <a href="https://vuspeech.com" target="_blank" onclick="trackOutboundLink('https://vuspeech.com')"><b>Vu LLC</b></a>
+  - **Academic Intern** \| February 2021 - Present
+  - Projects
+    - **Vu Speech**
+      - Developed Django server core infrastructure from scratch, for authentication, real-time transcription, diagnostics.
+      - Implemented REST APIs with API throttling for user authentication to support mobile applications.
+      - Deployed Django server under Amazon AWS EC2 along with the MySQL database under Amazon AWS RDS.
+      - Programming Language/Framework used: Python, Django, MySQL, REST API, AWS, WebSocket, Speech-to-Text API, Shell Script, Linux
+
+&nbsp;
+
 ##### <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank" onclick="trackOutboundLink('https://engineering.buffalo.edu/computer-science-engineering.html')"><b>University at Buffalo</b></a>
   - **<a href="http://nsr.cse.buffalo.edu" target="_blank" onclick="trackOutboundLink('http://nsr.cse.buffalo.edu')">Research Assistant</a>** \| May 2020 - Present
   - Projects
