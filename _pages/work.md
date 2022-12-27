@@ -27,7 +27,7 @@ title: "Work Experience"
 &nbsp;
 
 ##### <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank" onclick="trackOutboundLink('https://engineering.buffalo.edu/computer-science-engineering.html')"><b>University at Buffalo</b></a>
-  - **<a href="http://nsr.cse.buffalo.edu" target="_blank" onclick="trackOutboundLink('http://nsr.cse.buffalo.edu')">Research Assistant</a>** \| May 2020 - Present
+  - **<a href="http://nsr.cse.buffalo.edu" target="_blank" onclick="trackOutboundLink('http://nsr.cse.buffalo.edu')">Research Assistant</a>** \| May 2020 - September 2020
   - Projects
     - **Security-related project on ARM TrustZone**
       - Developed an Android application with real-time face recognition to demonstrate the practical usage of our proposed security mechanism for ARM TrustZone.
