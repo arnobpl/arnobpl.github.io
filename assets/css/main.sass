@@ -7,13 +7,18 @@ body
   flex-direction: column
 
 a
-  color: #4169E1
-
-a:hover
-  text-decoration: underline
-
-a:active
-  text-decoration: underline
+  &.button-collapse
+    &.top-nav
+      position: absolute
+      text-align: center
+      height: 48px
+      width: 48px
+      top: 0
+      float: none
+      color: #fff
+      font-size: 36px
+      z-index: 999
+      line-height: 80px
 
 main
   flex: 1 0 auto
@@ -32,6 +37,7 @@ header
 
   a:hover
     text-decoration: none
+    color: inherit
 
   .background
     background: -webkit-linear-gradient(90deg, #3AA17E 10%, #00537E 90%)
@@ -40,21 +46,7 @@ header
 .email
   padding-top: 16px
 
-a
-  &.button-collapse
-    &.top-nav
-      position: absolute
-      text-align: center
-      height: 48px
-      width: 48px
-      top: 0
-      float: none
-      color: #fff
-      font-size: 36px
-      z-index: 999
-      line-height: 80px
-
-nav 
+nav
   .page-title
     font-size: 36px
     font-weight: bold
@@ -64,23 +56,24 @@ nav
   &.top-nav
     height: 80px
 
-.fa
-  background: #ffffff
-  opacity: 0.8
-  color: #009688
-  padding: 5px
-  font-size: 25px
-  width: 35px
-  height: 35px
-  line-height: 35px
-  text-align: center
-  text-decoration: none
-  margin: 5px 2px
-  border-radius: 100%
-  &:hover
-    background: #009688
-    color: #ffffff
-    box-shadow: 0px 0px 4px #000000
+.userView
+  .fa
+    background: #ffffff
+    opacity: 0.8
+    color: #009688
+    padding: 5px
+    font-size: 25px
+    width: 35px
+    height: 35px
+    line-height: 35px
+    text-align: center
+    text-decoration: none
+    margin: 5px 2px
+    border-radius: 100%
+    &:hover
+      background: #009688
+      color: #ffffff
+      box-shadow: 0px 0px 4px #000000
 
 // Footer
 footer.page-footer
@@ -117,7 +110,7 @@ main
   footer
     padding-left: 0
 
-  nav 
+  nav
     .nav-wrapper
       text-align: center
 

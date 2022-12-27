@@ -4,7 +4,7 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://advertising.amazon.com" target="_blank" onclick="trackOutboundLink('https://advertising.amazon.com')"><b>Amazon&nbsp;Ads</b></a>
+##### <a href="https://advertising.amazon.com" target="_blank" onclick="trackOutboundLink('https://advertising.amazon.com')"><b>Amazon Ads <i class="fa fa-amazon" aria-hidden="true"></i></b></a>
   - **Software Development Engineer** \| August 2021 - Present
   - Projects
     - **Communication platform**

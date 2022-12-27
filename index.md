@@ -3,9 +3,17 @@ layout: page
 css: ["index.css"]
 ---
 <div class="col s12">
-
 <div class="row">
-<div class="column left" markdown="1">
+
+<div class="column right s12 push-m6 m6 push-l7 l2">
+  <div class="col s12 tag-div">
+    <div class="user-pic center-align">
+      <a href="{{site.github_profile}}" target="_blank"><img class="circle hoverable z-depth-1" src="{{site.baseurl}}/assets/res/user.jpg"></a>
+    </div>
+  </div>
+</div>
+
+<div class="column left s12 pull-m6 m6 pull-l2 l7" markdown="1">
 
 ##### Welcome to my site!
 
@@ -14,12 +22,6 @@ Hello visitor! Thank you for visiting my site! I am Arnob Paul, a reasonably exp
 Feel free to browse my site. :blush:
 
 </div>
-  <div class="column right">
-    <div class="col s12 tag-div">
-      <div class="user-pic center-align">
-        <a href="{{site.github_profile}}" target="_blank"><img class="circle hoverable z-depth-1" src="{{site.baseurl}}/assets/res/user.jpg"></a>
-      </div>
-    </div>
-  </div>
+
 </div>
 </div>
