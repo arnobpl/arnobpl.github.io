@@ -13,7 +13,7 @@ title: "Education"
 &nbsp;
 
 ##### <a href="https://cse.buet.ac.bd" target="_blank" onclick="trackOutboundLink('https://cse.buet.ac.bd')"><b>Bangladesh University of Engineering and Technology (BUET)</b></a>
-  - **Degree:** B.Sc. in Computer Science and Engineering. GPA: 3.21
+  - **Degree:** B.Sc. in Computer Science and Engineering
   - **Completed:** September 2017
   - **Thesis Supervisor:** <a href="http://mshohrabhossain.buet.ac.bd" target="_blank" onclick="trackOutboundLink('http://mshohrabhossain.buet.ac.bd')">Dr. Md. Shohrab Hossain</a>, Professor
   - **Thesis Topic:** SSL-based Session Hijacking Attacks and Protection Mechanisms
