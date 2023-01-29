@@ -8,9 +8,9 @@ title: "Work Experience"
   - **Software Development Engineer** \| August 2021 - Present
   - Projects
     - **Communication platform**
-      - Implemented several new features such as improving data pipeline, data quality, and automated monitoring of data fetching issues for an internal communication platform used by marketers to send millions of communication daily.
-      - Created low-level design for onboarding new advertiser audience from a specific source for Amazon Ads communication and launched the product internally for Amazon marketers.
-      - Implemented query engine from scratch to create data segments of specific target audiences for marketing email communication.
+      - Implemented features such as improving data pipeline, data quality, and automated monitoring of data fetching issues for an internal communication platform used by marketers to send 300 million communication per week.
+      - Created low-level design for onboarding new advertiser audience from a specific source for Amazon Ads communication that increased traffic by 20%.
+      - Implemented query engine from scratch to create data segments for 25% of target audiences for marketing email communication.
       - Programming Language/Framework used: Java, AWS, DynamoDB, OpenSearch, EMR, Spring, React, REST API
 
 &nbsp;
