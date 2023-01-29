@@ -35,7 +35,7 @@ defaults:
       permalink: /:basename
 
 # My GitHub configurations
-repository: arnobpl/arnobpl\.github\.io
+repository: arnobpl/arnobpl.github.io
 github_profile: "https://github.com/arnobpl"
 
 # My specific configurations
