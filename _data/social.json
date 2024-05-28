@@ -18,5 +18,10 @@
     "icon": "fa-youtube",
     "link": "https://www.youtube.com/user/arnobpl",
     "tooltip": "Visit my YouTube channel"
+  },
+  {
+    "icon": "fa-twitch",
+    "link": "https://www.twitch.tv/arnobpl",
+    "tooltip": "Visit my Twitch channel"
   }
 ]
