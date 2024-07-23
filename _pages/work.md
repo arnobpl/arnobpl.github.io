@@ -4,7 +4,7 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://advertising.amazon.com" target="_blank" onclick="trackOutboundLink('https://advertising.amazon.com')"><b>Amazon Ads <i class="fa fa-amazon" aria-hidden="true"></i></b></a>
+##### <a href="https://advertising.amazon.com" target="_blank"><b>Amazon Ads <i class="fa fa-amazon" aria-hidden="true"></i></b></a>
   - **Software Development Engineer** \| August 2021 - Present
   - Projects
     - **Communication platform**
@@ -14,7 +14,7 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://vuspeech.com" target="_blank" onclick="trackOutboundLink('https://vuspeech.com')"><b>Vu LLC</b></a>
+##### <a href="https://vuspeech.com" target="_blank"><b>Vu LLC</b></a>
   - **Academic Intern** \| February 2021 - June 2021
   - Projects
     - **Vu Speech**
@@ -25,8 +25,8 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank" onclick="trackOutboundLink('https://engineering.buffalo.edu/computer-science-engineering.html')"><b>University at Buffalo</b></a>
-  - **<a href="http://nsr.cse.buffalo.edu" target="_blank" onclick="trackOutboundLink('http://nsr.cse.buffalo.edu')">Research Assistant</a>** \| May 2020 - September 2020
+##### <a href="https://engineering.buffalo.edu/computer-science-engineering.html" target="_blank"><b>University at Buffalo</b></a>
+  - **<a href="http://nsr.cse.buffalo.edu" target="_blank">Research Assistant</a>** \| May 2020 - September 2020
   - Projects
     - **Security-related project on ARM TrustZone**
       - Developed an Android application with real-time face recognition to demonstrate the practical usage of our proposed security mechanism for ARM TrustZone.
@@ -39,7 +39,7 @@ title: "Work Experience"
 
 &nbsp;
 
-##### <a href="https://www.revesoft.com" target="_blank" onclick="trackOutboundLink('https://www.revesoft.com')"><b>REVE Systems</b></a>
+##### <a href="https://www.revesoft.com" target="_blank"><b>REVE Systems</b></a>
   - **Software Engineer** \| October 2017 - August 2018
   - Projects
     - **Enterprise-grade communication software**

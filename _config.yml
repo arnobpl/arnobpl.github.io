@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Arnob Paul
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="https://materializecss.com" target="_blank" onclick="trackOutboundLink('https://materializecss.com')">Materialize.css</a> for <a href="https://jekyllrb.com" target="_blank" onclick="trackOutboundLink('https://jekyllrb.com')">Jekyll</a> sites
+  Material theme based on <a href="https://materializecss.com" target="_blank">Materialize.css</a> for <a href="https://jekyllrb.com" target="_blank">Jekyll</a> sites
 
 baseurl: ""
 url: ""
